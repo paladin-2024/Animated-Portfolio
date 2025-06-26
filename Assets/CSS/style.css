@@ -134,6 +134,37 @@ header ul a{
     border-radius: 50px;
 }
 
+.hero-info h1{
+    font-size: 60px;
+    max-width: 600px;
+    font-weight: 700;
+    line-height: 70px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.hero-info p{
+    max-width: 550px;
+    line-height: 25px;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.hero-info button{
+    font-size: 17px;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 10px;
+    border: 1px solid #727fdeb4;
+    background-color: #2200493d;
+    box-shadow: 0 0 5px #727fde86;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.hero-info button:hover{
+    box-shadow: 0 0 15px #727fde86;
+}
 
 
 
