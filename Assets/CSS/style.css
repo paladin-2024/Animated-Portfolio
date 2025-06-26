@@ -23,6 +23,46 @@ body{
     mix-blend-mode: overlay;
 }
 
+header{
+    display: flex;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    background: rgba(255, 255, 255, 0.123);
+    backdrop-filter: blur(10px);
+    padding: 0 30px;
+    box-shadow: 0 0 15px #72a1de68;
+    z-index: 999;
+}
+
+.left{
+    display: flex;
+    margin: center;
+}
+
+.left img{
+    width: 80px;
+    margin:0 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media(max-aspect-ratio: 16/9){
     .back_bg{
         width: auto;
@@ -36,6 +76,8 @@ body{
         height: auto;
     }
 }
+
+
 
 
 
