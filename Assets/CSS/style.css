@@ -110,6 +110,30 @@ header ul a{
     margin-top: -23.5%;
 }
 
+.hero{
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-info{
+    position: absolute;
+    left: 5%;
+}
+
+.hero-info .hero-info-title{
+    color:#727fde;
+    padding: 8px 5px;
+    border: 1px solid #727fde77;
+    width:240px;
+    background-color: #2200493d;
+    box-shadow: 0 0 5px #727fde88;
+    border-radius: 50px;
+}
+
 
 
 
