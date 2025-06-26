@@ -31,7 +31,7 @@ header{
     left: 0;
     align-items: center;
     justify-content: space-between;
-    height: 70px;
+    height: 100px;
     background: rgba(255, 255, 255, 0.123);
     backdrop-filter: blur(10px);
     padding: 0 30px;
@@ -49,6 +49,17 @@ header{
     margin:0 15px;
 }
 
+header ul{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    padding: 15px 15px;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 69, 0.30);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 15px #727fde65;
+    
+}
 
 
 
