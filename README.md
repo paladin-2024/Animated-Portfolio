@@ -30,5 +30,3 @@ Curiosity fuels me—I build to connect, to optimize, and to keep learning.
 - **Portfolio Website**: [yourportfolio.com](https://yourportfolio.com)
 
 ---
-
-> "Good design is as little design as possible." – Dieter Rams
